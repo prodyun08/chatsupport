@@ -180,7 +180,7 @@ sendTextMessage("<span class='sk'>I am currently pursuing Diploma degree in Civi
             sendTextMessage("You can check my github here <a target='_blank' href='https://github.com/prodyun08'>Prodyun Biswas</a>");
             break;
         case "linkedin":
-            sendTextMessage("You can check my linkedin here <a target='_blank' href='https://www.linkedin.com/in/prodyun08'>Prodyun Biswas</a>");
+            sendTextMessage("You can check my linkedin here <a target='_blank' href='https://www.linkedin.com/in/prodyun'>Prodyun Biswas</a>");
             break;
         case "friends":
         case "friend":

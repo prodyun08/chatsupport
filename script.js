@@ -97,8 +97,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing Diploma degree in Civil Engineering.<br><br>I can comfortably to this work :<br><span class='bold'>AutoCAD<br>Revit<br>Excel<br>Word<br>Staad Pro<br>Problem-solving<br>Building Information Modeling (BIM)<br>Attention to detail</span><br><br>I am also known little bits Programming Language :<span class='bold'><br>Python<br>Javascript</span><br>");
-            break;
+sendTextMessage("<span class='sk'>I am currently pursuing Diploma degree in Civil Engineering.<br><br>I can comfortably to this work :<br><span class='bold'>AutoCAD<br>Revit<br>Excel<br>Word<br>Staad Pro<br>Problem-solving<br>Building Information Modeling (BIM)<br>Attention to detail</span><br><br>I am also known little bits Programming Language :<span class='bold'><br>Python<br>Javascript</span><br>");            break;
             case "address":
             sendTextMessage(addressString);
             break;

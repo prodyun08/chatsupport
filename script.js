@@ -103,11 +103,11 @@ function waitAndResponce(inputText) {
             sendTextMessage(addressString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing B.E degree in Computer Science Engineering.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>C<br>PHP<br>Kotlin<br>Dart<br><br>CSS<br>HTML<br>JavaScript</span><br><br>I am well versed with following frameworks :<span class='bold'><br>Android<br>Flutter<br>ReactJs</span><br>");
+            sendTextMessage("<span class='sk'>I am currently pursuing Diploma degree in Civil Engineering.<br><br>I can comfortably to this work :<br><span class='bold'>AutoCAD<br>Revit<br>Excel<br>Word<br>Staad Pro<br>Problem-solving<br>Building Information Modeling (BIM)<br>Attention to detail</span><br><br>I am also known little bits Programming Language :<span class='bold'><br>Python<br>Javascript</span><br>");
             break;
 
         case "education":
-            sendTextMessage("I am currently pusuing B.E degree in Computer Science Engineering from MITE Moodabidri<br>Passing Year : 2023<br><br>I have completed my PU from Excellent PU College Moodabidri<br>Passing Year:2019<br>Result:94%<br><br>I have completed my Secondary school from local school known as M K Shetty<br>Passing Year:2017");
+            sendTextMessage("I am currently pusuing diploma degree in Civil Engineering from Babasaheb Ambedkar Government Polytechnic<br>Passing Year : 2025<br><br>Passing Year:2019<br>Result:61%<br><br>I have completed my Secondary school from local school known as Shibpur J.K.S. Hight School<br>Passing Year:2019");
             break;
         
         case "name":

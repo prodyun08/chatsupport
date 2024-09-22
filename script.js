@@ -186,6 +186,13 @@ sendTextMessage("<span class='sk'>I am currently pursuing Diploma degree in Civi
         case "friend":
             sendTextMessage("I am always ready to make new friends");
             break;
+        case "thanks","thank","thank you":
+            sendTextMessage("Most Welcome. Happy to help");
+            break;
+        case "ok":
+            sendTextMessage("Thanks You. Happy to help");
+            break;
+
         case "input":
             setTimeout(()=>{
                 // sendTextMessage("What a coincidence!");

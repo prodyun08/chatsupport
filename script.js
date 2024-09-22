@@ -124,7 +124,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(contactString);
             break;
         case "projects":
-            sendTextMessage("You want to check my projects? <br><br><div class='social'><a target='_blank' href='https://github.com/prodyun08'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div><div class='social'><a target='_blank' href='https://github.com/prodyun08'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a></div>");
+            sendTextMessage("You want to check my projects? <br><br><div class='social'><a target='_blank' href='https://github.com/prodyun08'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div><div class='social'><a target='_blank' href='https://www.linkedin.com/in/prodyun/'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a></div>");
             break;
         case "time":
             var date = new Date();
